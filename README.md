@@ -16,18 +16,32 @@ I work on:
 
 Here is an example:
 
-| Cinnamoroll T‑shirt | Kuromi T‑shirt |
-|---------------------|----------------|
-| ![T1](teeshirt.png) | ![T2](teeshirt1.png) |
+# Ma collection de t-shirts et sweats illustrés
+
+##  T-shirt jaune pâle — Canard magique
+
+![T-shirt canard jaune pâle](https://image.pollinations.ai/ipfs/QmX...canard-mockup)
+
+---
+
+## Sweat à capuche jaune pâle — Pingouin d’hiver
+
+![Sweat pingouin jaune pâle](https://image.pollinations.ai/ipfs/QmX...pingouin-hoodie)
+
+---
+
+## T-shirt vert tendre — Oiseau nature
+
+![T-shirt oiseau vert tendre](https://image.pollinations.ai/ipfs/QmX...oiseau-mockup)
 
 ---
 
 ## 📦 How to Order
 
-To order a t‑shirt, just contact my parents:
+To order a t‑shirt, just contact me:
 
-**Email:** *(to add)*  
-**Instagram:** *(to add if you have one)*
+**Email:** *(abigail.aj.thomas@icloud.com)*  
+**Instagram:** *(AbigailArt_officiel)*
 
 They take care of payments and shipping.
 
