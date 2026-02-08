@@ -53,7 +53,7 @@ My name is **Abigail** and I love creating drawings.
 I decided to start my own little t‑shirt brand to share my ideas with the world.  
 Thank you for supporting my project!
 
----
+---![logo.pnj.png](monlogo.png)
 
 ## 🌐 My Website
 
