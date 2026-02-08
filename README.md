@@ -14,7 +14,10 @@ Je travaille sur :
 - des designs mélangés et créatifs  
 - des idées que tu ne trouveras nulle part ailleurs  
 
-Les photos de mes t‑shirts seront bientôt disponibles ici.
+Voic un exemple:
+| T-shirt Cinnamoroll | T-shirt Kuromi |
+|----------|-----------|
+| ![T1](teeshirt.jpg) | ![T2](teeshirt2.jpg) |
 
 ---
 
