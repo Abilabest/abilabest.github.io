@@ -25,13 +25,13 @@ Here is some example
 
 ## 🐥 Sweat à capuche jaune pâle — Canard magique
 
-![Sweat canard jaune pâle](sweat jaune canard)
+![Sweat canard jaune pâle](sweat jaune canard.png)
 
 ---
 
 ## 🐧 Pale blue T-shirt — Winter Penguin
 
-![Pale blue penguin T-shirt](t shirt pinguoin)
+![Pale blue penguin T-shirt](t shirt pinguoin.png)
 
 *This cozy pastel tee features a sleepy winter penguin with clouds and snowflakes — perfect for chilly vibes.*
 ---
