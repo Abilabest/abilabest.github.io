@@ -17,6 +17,23 @@ I work on:
 Here is some example 
 
 
+## 🐥 Pale yellow T-shirt — Duck Design
+
+![T-shirt canard jaune pâle](t shirt jaune canard.png)
+
+---
+
+## 🐥 Sweat à capuche jaune pâle — Canard magique
+
+![Sweat canard jaune pâle](sweat jaune canard)
+
+---
+
+## 🐧 Pale blue T-shirt — Winter Penguin
+
+![Pale blue penguin T-shirt](t shirt pinguoin)
+
+*This cozy pastel tee features a sleepy winter penguin with clouds and snowflakes — perfect for chilly vibes.*
 ---
 
 ## 📦 How to Order
