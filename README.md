@@ -19,13 +19,13 @@ Here is some example
 
 ## 🐥 Pale yellow T-shirt — Duck Design
 
-![T-shirt canard jaune pâle](t shirt jaune canard.png)
+![T-shirt canard jaune pâle](tshirt2.png)
 
 ---
 
 ## 🐥 Hoodie pale yellow — Duck Design
 
-![Sweat canard jaune pâle](sweat jaune canard.png)
+![Sweat canard jaune pâle](hoodie2.png)
 
 ---
 
