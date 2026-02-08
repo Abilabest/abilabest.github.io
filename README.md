@@ -49,7 +49,7 @@ They take care of payments and shipping.
 
 ## 🎨 About Me
 
-My name is **Abi** and I love creating drawings.  
+My name is **Abigail** and I love creating drawings.  
 I decided to start my own little t‑shirt brand to share my ideas with the world.  
 Thank you for supporting my project!
 
