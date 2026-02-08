@@ -17,7 +17,7 @@ Je travaille sur :
 Voic un exemple:
 | T-shirt Cinnamoroll | T-shirt Kuromi |
 |----------|-----------|
-| ![T1](teeshirt.jpg) | ![T2](teeshirt2.jpg) |
+| ![T1](teeshirt.png) | ![T2](teeshirt1.png) |
 
 ---
 
