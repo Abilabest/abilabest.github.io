@@ -31,7 +31,7 @@ Ils s’occupent des paiements et des envois.
 
 ## 🎨 À propos de moi
 
-Je m’appelle **Abila** et j’adore créer des dessins.  
+Je m’appelle **Abi** et j’adore créer des dessins.  
 J’ai décidé de lancer ma petite marque de t‑shirts pour partager mes idées avec le monde.  
 Merci de soutenir mon projet !
 
