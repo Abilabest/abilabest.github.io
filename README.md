@@ -1,45 +1,46 @@
-# 👕 Abila Best – Mes Super T‑Shirts
+# 👕 Abi La Best – My Awesome T‑Shirts
 
-Bienvenue sur mon site officiel !  
-Je crée des designs uniques et colorés pour des t‑shirts stylés.  
-J’ai 10 ans et je fais mes propres créations avec l’aide de mes parents.  
-Chaque t‑shirt est imaginé et dessiné avec passion.
+Welcome to my official website!  
+I create unique and colorful designs for stylish t‑shirts.  
+I am 10 years old and I make my own creations with the help of my parents.  
+Every t‑shirt is imagined and drawn with passion.
 
 ---
 
-## 🌟 Mes créations
+## 🌟 My Creations
 
-Je travaille sur :
-- des t‑shirts originaux  
-- des designs mélangés et créatifs  
-- des idées que tu ne trouveras nulle part ailleurs  
+I work on:
+- original t‑shirts  
+- mixed and creative designs  
+- ideas you won’t find anywhere else  
 
-Voic un exemple:
-| T-shirt Cinnamoroll | T-shirt Kuromi |
-|----------|-----------|
+Here is an example:
+
+| Cinnamoroll T‑shirt | Kuromi T‑shirt |
+|---------------------|----------------|
 | ![T1](teeshirt.png) | ![T2](teeshirt1.png) |
 
 ---
 
-## 📦 Comment commander
+## 📦 How to Order
 
-Pour commander un t‑shirt, il suffit de contacter mes parents :
+To order a t‑shirt, just contact my parents:
 
-**Email :** *(à ajouter)*  
-**Instagram :** *(à ajouter si vous en avez un)*
+**Email:** *(to add)*  
+**Instagram:** *(to add if you have one)*
 
-Ils s’occupent des paiements et des envois.
-
----
-
-## 🎨 À propos de moi
-
-Je m’appelle **Abi** et j’adore créer des dessins.  
-J’ai décidé de lancer ma petite marque de t‑shirts pour partager mes idées avec le monde.  
-Merci de soutenir mon projet !
+They take care of payments and shipping.
 
 ---
 
-## 🌐 Mon site
+## 🎨 About Me
+
+My name is **Abi** and I love creating drawings.  
+I decided to start my own little t‑shirt brand to share my ideas with the world.  
+Thank you for supporting my project!
+
+---
+
+## 🌐 My Website
 
 👉 https://abilabest.github.io
