@@ -23,7 +23,7 @@ Here is some example
 
 ---
 
-## 🐥 Sweat à capuche jaune pâle — Canard magique
+## 🐥 Hoodie pale yellow — Duck Design
 
 ![Sweat canard jaune pâle](sweat jaune canard.png)
 
