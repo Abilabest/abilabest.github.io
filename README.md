@@ -17,24 +17,23 @@ I work on:
 Here is some example 
 
 
-## 🐥 Pale yellow T-shirt — Duck Design
+##  Pale yellow T-shirt — Duck Design
 
 ![T-shirt canard jaune pâle](tshirt2.png)
 
----
+---**8.00$**
 
-## 🐥 Hoodie pale yellow — Duck Design
+## Hoodie pale yellow — Duck Design
 
 ![Sweat canard jaune pâle](hoodie2.png)
 
----
+---**16.00$**
 
-## 🐧 Pale blue T-shirt — Winter Penguin
+##  Pale blue T-shirt — Winter Penguin
 
 ![Pale blue penguin T-shirt](t shirt pinguoin.png)
 
-*This cozy pastel tee features a sleepy winter penguin with clouds and snowflakes — perfect for chilly vibes.*
----
+---**8.00$**
 
 ## 📦 How to Order
 
