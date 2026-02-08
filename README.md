@@ -20,8 +20,8 @@ Here is some example
 ##  Pale yellow T-shirt — Duck Design
 
 ![T-shirt canard jaune pâle](tshirt2.png)
-
----**8.00$**
+**8.00$**
+---
 
 ## Hoodie pale yellow — Duck Design
 
@@ -34,6 +34,7 @@ Here is some example
 ![Pale blue penguin T-shirt](t shirt pinguoin.png)
 
 ---**8.00$**
+Every clothes are for adult and child,girls and boys.
 
 ## 📦 How to Order
 
