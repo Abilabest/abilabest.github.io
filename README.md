@@ -1,4 +1,4 @@
-# 👕 Abi La Best – My Awesome T‑Shirts
+#  Abigail's art – My Awesome T‑Shirts
 
 Welcome to my official website!  
 I create unique and colorful designs for stylish t‑shirts.  
@@ -14,19 +14,9 @@ I work on:
 - mixed and creative designs  
 - ideas you won’t find anywhere else  
 
-Here is an example:
+Here is some example 
 
-# Ma collection de t-shirts et sweats illustrés
 
-##  T-shirt jaune pâle — Canard magique
--t shirt jaune canrd.pnj
-
----
-
-## Sweat à capuche jaune pâle —canard magiqu
--sweat jaune canard.pnj
-## t-shirt bleu pale pingoin
--t shirt pinguoin.pnj
 ---
 
 ## 📦 How to Order
