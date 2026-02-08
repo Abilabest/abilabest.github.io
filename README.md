@@ -19,21 +19,14 @@ Here is an example:
 # Ma collection de t-shirts et sweats illustrés
 
 ##  T-shirt jaune pâle — Canard magique
-
-![T-shirt canard jaune pâle](https://image.pollinations.ai/ipfs/QmX...canard-mockup)
-
----
-
-## Sweat à capuche jaune pâle — Pingouin d’hiver
-
-![Sweat pingouin jaune pâle](https://image.pollinations.ai/ipfs/QmX...pingouin-hoodie)
+-t shirt jaune canrd.pnj
 
 ---
 
-## T-shirt vert tendre — Oiseau nature
-
-![T-shirt oiseau vert tendre](https://image.pollinations.ai/ipfs/QmX...oiseau-mockup)
-
+## Sweat à capuche jaune pâle —canard magiqu
+-sweat jaune canard.pnj
+## t-shirt bleu pale pingoin
+-t shirt pinguoin.pnj
 ---
 
 ## 📦 How to Order
