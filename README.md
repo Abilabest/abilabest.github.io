@@ -4,7 +4,7 @@ Welcome to my official website!
 I create unique and colorful designs for stylish t‑shirts.  
 I am 10 years old and I make my own creations with the help of my parents.  
 Every t‑shirt is imagined and drawn with passion.
-![logo.pnj.png](monlogo.png)---
+![logo.pnj.png]logo.pnj.png)---
 
 ## 🌟 My Creations
 
