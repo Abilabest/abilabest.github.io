@@ -19,7 +19,7 @@ Here is some example
 
 ##  Pale yellow T-shirt — Duck Design
 
-![)
+![tshirt2.png)
 **8.00$**
 ---
 
