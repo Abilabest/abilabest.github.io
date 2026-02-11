@@ -18,7 +18,8 @@ Here is some example
 
 
 ##  Pale yellow T-shirt — Duck Design
-![tshirt2.png)
+![T shirt jaune pale canard] (tshirt2.png)
+
 **8.00$**
 ---
 
